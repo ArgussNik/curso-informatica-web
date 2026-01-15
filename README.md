@@ -1,2 +1,11 @@
-# curso-informatica-web
-Algumas atividades que fiz em sala de aula durante o curso Informática para Internet.
+# Atividades – Curso de Informática para Internet
+
+Repositório com exercícios e atividades desenvolvidos durante o curso técnico em Informática para Internet.
+
+## Conteúdo
+- HTML e CSS
+- Python básico
+- Exercícios práticos de layout e lógica
+
+## Objetivo
+Registrar minha evolução e praticar conceitos fundamentais de desenvolvimento web.
