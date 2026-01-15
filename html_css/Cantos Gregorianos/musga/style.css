@@ -1,0 +1,31 @@
+* {
+    background-color: black;
+    border: 0;
+    padding: 0;
+    
+    
+}
+
+h1 {
+    color: yellow;
+    font-size: 50px;
+    text-decoration: underline;
+    font-weight: bold;
+    text-align: center;
+
+}
+
+p {
+    color: aliceblue;
+    font-size: 20px;
+    text-align: justify;
+}
+
+h2 {
+    color: rgb(254, 255, 182);
+    font-size: 35px;
+    font-family: Georgia, Times, 'Times New Roman', serif;
+    text-align: left;
+
+}
+

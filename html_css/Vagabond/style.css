@@ -1,0 +1,18 @@
+* {
+    background-color: beige;
+}
+h1 {
+    font-size: 60px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    color: steelblue;
+}
+p {
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 40px;
+}
+
+h2 {
+    text-decoration: underline, italic, bold;
+    font-size: 30px;
+}
