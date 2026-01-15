@@ -5,6 +5,7 @@ Repositório com exercícios e atividades desenvolvidos durante o curso técnico
 ## Conteúdo
 - HTML e CSS
 - Python básico
+- JS minímo 
 - Exercícios práticos de layout e lógica
 
 ## Objetivo
